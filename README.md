@@ -1,7 +1,7 @@
 
 This project was bootstrapped with Create React App.
 
-Live Demo for App is at https://buscafilmes.netlify.app
+Live Demo for App is at https://movieland-searcher.netlify.app
 
 ## What is inside?
 
